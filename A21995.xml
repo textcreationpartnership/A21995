@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King wee haue (before this time) made knowen to our subiects vpon diuers occasions, that we haue receiued so great contentment in their generall conformitie ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21995</idno>
+            <idno type="STC">STC 8341</idno>
+            <idno type="STC">ESTC S3678</idno>
+            <idno type="EEBO-CITATION">33150749</idno>
+            <idno type="OCLC">ocm 33150749</idno>
+            <idno type="VID">28737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King wee haue (before this time) made knowen to our subiects vpon diuers occasions, that we haue receiued so great contentment in their generall conformitie ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first 3 lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: cropped.</note>
+                  <note>"Giuen at our Honour of Hapmton Court, the eleuenth day of January, in the first yeere of our reigne of England, France and Ireland, and of Scotland the seuen and thirtieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Great Britain --  Politics and government --  1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28737:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Ee haue (before this time) made knowen to</hi> our Subiects vpon diuers occaſions, that we haue receiued ſo great contentment in their generall conformitie &amp; ſubmiſſion to all ſuch courſes, as might beſt eſtabliſh the poſſeſſion of this Crowne, ac<g ref="char:EOLhyphen"/>cording to the right of our Succeſſion, as it would euer nouriſh in vs an earneſt deſire to ſhewe our ſelues carefull in all things, to preſerue their greateſt affection, and to anſwere that expectati<g ref="char:EOLhyphen"/>on, which (by their ioyfull maner of receiuing vs) Wee perceiued they had conceiued of our gouernment. Whereof, as we well know, that Princes cannot yeeld, more generall, more cleare, or profitable proofe to their people, then by redreſſing abuſes, wherewith they finde their Subiects iuſtly grieued, either in conſtitution, or adminiſtration of their Lawes in beeing, or by ſeeking to eſtabliſh newe Lawes for them, agreeable to the rules of Iuſtice, whenſoeuer time doth diſcouer any defects in the former Policy, or when ac<g ref="char:EOLhyphen"/>cidents in the State of any Common wealth require new ordinances: So ſeeing both theſe things (which are of ſo great moment in a State) haue accuſtomed to bee conſidered and or<g ref="char:EOLhyphen"/>dered (as in this, ſo in other well gouerned Common wealths) by a Lawfull aſſembly of the three Eſtates of the Realme, commonly called The Parliament; We were deſirous to haue ſummoned them long ſince for that purpoſe, if the Infection (reigning in the City of London and other places of our Kingdome) would haue permitted the Concourſe of ſo great a multi<g ref="char:EOLhyphen"/>tude into one place, as that Aſſembly muſt neceſſarily bring with it. Which great Contagion being now by the goodneſſe of God abated, and likely (as we hope) to be ſhortly quite extin<g ref="char:EOLhyphen"/>guiſhed in and about the ſayd City, Wee haue reſolued to hold a Parliament at our Citie of Weſtminſter, as ſoone as we ſhall finde, that the ſame may be done without the perill afore<g ref="char:EOLhyphen"/>ſaid. In which, as God doth know, that we haue nothing to propound for ſatiſfaction of any priuate deſire, or particular profite of our owne, but meerely and onely to conſult and reſolue with our louing Subiects of all thoſe things, which may beſt eſtabliſh the Publike good, with the generall ſafety and tranquillity of this Realme: (on which it hath pleaſed God to multiply ſo many bleſſings) ſo to the intent that this aſſembly of our Parliament (being grounded vpon ſo ſyncere an intent on our part) may be matched with a like integritie on theirs, And as it is the firſt in our Raigne, ſo to be found not onely worthy of the High Title it beareth, to be the Higheſt Counſell of the Kingdome, but alſo to be a Preſident for hereafter of the true vſe of Parliaments, We haue bethought our ſelfe, of as many wayes and meanes, as
+<pb facs="tcp:28737:2"/>may be, to preuent thoſe inconueniences, which dayly ariſe and multiply by the peruerting of thoſe ancient good orders, which were deuiſed by the wiſedome of former times to bee obſer<g ref="char:EOLhyphen"/>ued in calling of Parliaments.</p>
+            <p>Amongſt which, becauſe there is no one point of greater conſequence, then the well chuſing of Knights and Burgeſſes, who as they doe preſent the body of the third Eſtate, ſo being eligible by multitude there are often many vnfit perſons appointed for that ſeruice: And where it is ſo well knowen to euery priuate man of wit and iudgement (much more to Vs who haue had ſo long experience of Kingly Gouernment) how ill effects doe follow, when ſuch as haue to doe in matters of Commonwealth, ſhall come to that great and Common Councel, with other then publike minds, ſyncere, and voyd of any factious humour or depen<g ref="char:EOLhyphen"/>dencie: We doe hereby ſtraightly charge and admoniſh all perſons intereſſed in the choiſe of Knights for the Shires, Firſt, that the Knights for the County be ſelected out of the princi<g ref="char:EOLhyphen"/>pall Knights or Gentlemen of ſufficient hability within that Countie wherein they are cho<g ref="char:EOLhyphen"/>ſen: And for the Burgeſſes, that choice be made of men of ſufficiency and diſcretion without any partiall reſpects, or factious combination, which alwayes breed ſuſpitions, that more care is taken to compaſſe priuate ends, then to prouide for making good and wholeſome Lawes for the Realme. And becauſe it is no more poſſible to drawe ſound Counſels and re<g ref="char:EOLhyphen"/>ſolutions from inconſiderate or inſufficient ſpirits, then to haue a ſound or healthfull body compoſed of weake and imperfect members: We do likewiſe admoniſh all perſons to whom it doth appertaine, That ſeeing the dealing in cauſes of Parliament, requires conueniencie of yeeres and experience, there may be great heede taken by all thoſe that will be accompted louers of their Countrey, That both Knights and Burgeſſes may be choſen accordingly, without deſire in any particuler men to pleaſe parents or friends, that often ſpeake for their children or kinne, though they bee very young, and little hable to diſcerne what Lawes are fit to bind a Common-wealth, To the conſultation whereof thoſe perſons would be ſelected principally, of whoſe grauity and modeſt conuerſation men are likeſt generally to conceiue beſt opinion.</p>
+            <p>Next and about all things, concerning that one of the maine Pillars of this Eſtate, is the preſeruation of Vnitie in the profeſſion of ſincere Religion of Almighty God: We doe alſo ad<g ref="char:EOLhyphen"/>moniſh, that there be great care taken, to auoyd the choice of any perſons either noted for their Superſtitious blindeneſſe one way, or for their turbulent humors other wayes: becauſe their diſorderly and vnquiet Spirits, will diſturbe all the diſcreet and modeſt proceeding in that greateſt and graueſt Councill. Further wee doe command, that an expreſſe care bee had, that there be not choſen any perſons Banquerupts or Outlawed, but men of knowen good behauiour and ſufficient liuelyhood, and ſuch as are not onely taxed to the payment of Subſidies and other like charges, but alſo haue ordinarily payed and ſatiſfied the ſame, Nothing being more abſurd in any Common wealth, then to permit thoſe to haue free voices for Lawe making, by whoſe owne Actes they are exempted from the Lawes protection. Next, that all Shiriffes be charged that they doe not direct any Precept for electing and re<g ref="char:EOLhyphen"/>turning of any Burgeſſes to or for any ancient Borough towne within their Counties, be<g ref="char:EOLhyphen"/>ing ſo vtterly ruined and decayed, that there are not ſufficient Reſiants to make ſuch choice, and of whom lawfull election may be made, Alſo to charge all Cities and Boroughes, and the inhabitants of the ſame, that none of them ſeale any Blanckes, referring or leauing to any others to inſert the names of any Citizens or Burgeſſes, to ſerue for any ſuch Citie or Bo<g ref="char:EOLhyphen"/>rough, but that the Inhabitants of euery ſuch Citie or Borough, doe make open and free Election according to the Lawe, and ſet downe the names of the perſons whom they chooſe, before they ſeale the Certificate.</p>
+            <pb facs="tcp:28737:3"/>
+            <p>Furthermore We notifie by theſe Preſents, that all Retournes and Certificats of Knights, Citizens and Burgeſſes, ought and are to be brought to the Chancery, and there to be filed of Record. And if any ſhall be found to be made contrary to this Proclamation, the ſame is to be reiected as vnlawfull and inſufficient, and the Citie or Borough to be fined for the ſame. And if it be found that they haue committed any groſſe or wilfull default and contempt in their Election, Retourne, or Certificate, That then their Liberties according to the Lawe, are to be ſeized into our handes, as forfeited. And if any perſon take vpon him the place of a Knight, Citizen, or Burgeſſe, not being duely Elected, Retourned, and ſworne according to the Lawes and Statutes in that behalfe prouided, and according to the purport, effect and true meaning of this our Proclamation, Then euery perſon ſo offending to bee fined and im<g ref="char:EOLhyphen"/>priſoned for the ſame.</p>
+            <p>Wee doe alſo hereby giue warning to the Lords and others that are to ſerue in this Par<g ref="char:EOLhyphen"/>liament, to haue ſpeciall care, (as they tender our diſpleaſure) That they admitte none to haue the name or countenance of their ſeruants &amp; attendants, during the Parliament, ſeeing ſuch queſtions of Priuiledge haue in times paſt conſumed a great part of the time appoynted for the Parliament, wherby the ſeruice for the Realme hath bene hindered, and the Subiects drawen to great charges and expences, by attending much longer then otherwiſe needed.</p>
+            <p>Hauing at this time bene the more carefull to ſet downe a particular Order &amp; forewarning for preuenting of theſe ſeuerall abuſes afore mentioned, that thereby there may ariſe at that Publike and ſolemne meeting, ſuch a Comely proportion and laudable Sympathy betweene the honourable, iuſt, and neceſſarie Lawes that are to be made and eſtabliſhed at this Parli<g ref="char:EOLhyphen"/>ament, and the commendable diſcretion, with all other wiſe and vertuous qualities meete for ſuch perſons as are to be the members and aſſiſters of Vs, in ſo honourable, lawfull, and neceſſary an Action, as may both put Vs, and all our good Subiects in a ſure expectation of a happy iſſue to follow thereupon: Wee doubt not but theſe our Directions thus made ma<g ref="char:EOLhyphen"/>nifeſt, ſhall be duely obſerued, according to the important conſequence thereof, and the perill of our heauie diſpleaſure to all thoſe that ſhall offend in the contrary.</p>
+            <closer>
+               <dateline>Giuen at our Honour of Hampton Court, <date>the eleuenth day of Ianuary, in the firſt yeere of our reigne of England, France and Ireland, and of Scotland the ſeuen and thirtieth.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. Anno 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
